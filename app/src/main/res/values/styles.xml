@@ -1,0 +1,43 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--Style for RadioGroup-->
+    <style name="RadioGroupStyle">
+        <item name="android:paddingLeft">16dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_marginBottom">16dp</item>
+    </style>
+    <!--Style for Widget-->
+    <style name="WidgetStyle">
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:layout_marginBottom">4dp</item>
+        <item name="android:layout_marginEnd">16dp</item>
+    </style>
+    <!--Style for header Text-->
+    <style name="HeaderTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">48dp</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">36sp</item>
+    </style>
+    <!--Style for Small Text-->
+    <style name="SmallTextStyle">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">13sp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+    </style>
+    <!--Style for Normal Text-->
+    <style name="NormalTextStyle">
+        <item name="android:textSize">15sp</item>
+        <item name="android:layout_marginLeft">16dp</item>
+        <item name="android:textColor">#000000</item>
+    </style>
+</resources>

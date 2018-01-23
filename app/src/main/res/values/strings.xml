@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="app_desc">Quiz</string>
+
+    <!--These strings are for question 1 -->
+    <!-- Questions sourced from http://www.knowalot.org/answers-music-kids-quiz.htm -->
+
+    <string name="quiz1">1. What talent show did Little Mix win? </string>
+    <string name="quiz1_radio1">The X Factor </string>
+    <string name="quiz1_radio2">The Voice</string>
+    <string name="quiz1_radio3">Britain\'s Got Talent</string>
+    <!--These strings are for question 2 -->
+    <string name="quiz2">2. Which is the fastest animal on the land? </string>
+    <string name="quiz2_radio1">Horse</string>
+    <string name="quiz2_radio2">Cheetah</string>
+    <string name="quiz2_radio3">Hare</string>
+    <!--These strings are for question 3 -->
+    <string name="quiz3">3. How many degrees are there in a right angle?</string>
+    <string name="quiz3_radio1"> 360</string>
+    <string name="quiz3_radio2"> 90</string>
+    <string name="quiz3_radio3"> 180</string>
+    <!--These strings are for question 4 -->
+    <string name="quiz4">4. Which is the least populated country in the world?</string>
+    <string name="quiz4_radio1">Australia</string>
+    <string name="quiz4_radio2">Jamaica</string>
+    <string name="quiz4_radio3">Vatican City </string>
+    <!--These strings are for question 5 -->
+    <string name="quiz5">5. What is 0.33 as a percentage?</string>
+    <string name="quiz5_radio1">330</string>
+    <string name="quiz5_radio2"> 3.3</string>
+    <string name="quiz5_radio3">33</string>
+    <!--These strings are for question 6 -->
+    <string name="quiz7">6. What is the capital of Nigeria?</string>
+    <!--These strings are for question 7 -->
+    <string name="quiz6">7. What are the first names of the members of The Vamps?</string>
+    <string name="checkbox1">Bradley</string>
+    <string name="checkbox2">Connor</string>
+    <string name="checkbox3">Tristan</string>
+    <string name="checkbox4">James</string>
+    <!--These strings are for personal data -->
+    <string name="button_result">RESULT</string>
+    <!--These strings are for result of selected radio buttons-->
+    <string name="excellent">Excellent</string>
+    <string name="good">Good</string>
+    <string name="poor">poor</string>
+
+
+
+
+</resources>
